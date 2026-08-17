@@ -941,6 +941,7 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   flex-shrink: 0;
 }
 .ha-meem { background: linear-gradient(135deg,#06b6d4,#0ea5e9); color: #fff; }
+.babylon { background: linear-gradient(135deg,#8b5cf6,#6d28d9); color: #fff; }
 .bc-union { background: linear-gradient(135deg,#10b981,#059669); color: #fff; }
 
 .job-title {
